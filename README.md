@@ -20,51 +20,42 @@
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-0E75B6?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0E75B6?style=for-the-badge&logo=javascript&logoColor=white)
-
-### 🛠 Backend
-![Firebase](https://img.shields.io/badge/Firebase-1D4ED8?style=for-the-badge&logo=firebase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0E75B6?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-38BDF8?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0E75B6?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1D4ED8?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0E75B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
-<!-- 🔵 Featured Projects -->
-## 🚀 Featured Projects
-
-### 🛒 E-commerce Web App
-- Fullstack with React + Firebase  
-- Auth / Product / Order system  
-- 🔗 Demo: [your-demo-link]  
-- 📂 Repo: [your-repo-link]
+### 🛠 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-0E75B6?style=for-the-badge&logo=firebase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-38BDF8?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-1D4ED8?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
-### 📱 Mobile Marketplace App
-- Flutter + Firebase  
-- Image upload / Real-time data  
-- 🔗 Demo: [your-demo-link]  
-- 📂 Repo: [your-repo-link]
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-0E75B6?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-<!-- 🔵 GitHub Stats -->
-## 📊 GitHub Stats
+### 🌐 CMS & Tools
+![WordPress](https://img.shields.io/badge/WordPress-1D4ED8?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-38BDF8?style=for-the-badge&logo=elementor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0E75B6?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=0E75B6&icon_color=38BDF8&text_color=ffffff&bg_color=0d1117" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=0E75B6&text_color=ffffff&bg_color=0d1117" />
-</p>
+### 🔗 API & Integration
+- REST API Integration (e.g. Tripadvisor API)
+- Webhook-based automation (n8n)
+- Real-time data handling (Firebase)
+
+---
+
+### 🤖 AI & Automation
+- AI Chatbot Development (n8n + Google Sheets + Firebase)
+- Workflow Automation & Integration Systems
 
 ---
 
@@ -72,7 +63,7 @@
 ## 🔥 Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=38BDF8&line=0E75B6&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natcha-laepankaew&bg_color=0d1117&color=38BDF8&line=0E75B6&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -81,7 +72,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:natchalpk@gmail.com">
     <img src="https://img.shields.io/badge/Email-0E75B6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-profile">
