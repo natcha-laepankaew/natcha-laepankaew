@@ -30,29 +30,27 @@ Fullstack Developer passionate about building scalable web & mobile applications
 <!-- 🧠 About + Pixel (centered layout) -->
 <p align="center">
 
-## 🖤 About Me
+<!-- 🖤 About Me -->
+<h2 align="center">🖤 About Me</h2>
 
+<p align="center">
 I'm a passionate developer focused on building clean, scalable, and user-friendly applications.
-
-💻 React, Next.js, Flutter  
-🔗 API Integration & Real-time Systems  
-🚀 Open for Junior Role  
-
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180"/>
+💻 React, Next.js, Flutter <br/>
+🔗 API Integration & Real-time Systems <br/>
+🚀 Open for Junior Role
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+<!-- ⚙️ Tech Stack -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,firebase,mysql,docker,git,figma,postman" />
 </p>
-
----
 
 <p align="center">
 💜 Made with passion by Natcha
