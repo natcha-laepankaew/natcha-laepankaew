@@ -1,6 +1,6 @@
 <!-- 🔵 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Natcha;Junior+Fullstack+Developer;React+%7C+Flutter+%7C+Firebase;Open+for+Internship&center=true&width=550&height=50&color=0D1117&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Natcha;Junior+Fullstack+Developer;React+%7C+Flutter+%7C+Next.js&center=true&width=550&height=50&color=0D1117&vCenter=true&size=24">
 </p>
 
 
@@ -36,12 +36,6 @@
 
 <p align="center">
 I'm a passionate developer focused on building clean, scalable, and user-friendly applications.
-</p>
-
-<p align="center">
-💻 React, Next.js, Flutter <br/>
-🔗 API Integration & Real-time Systems <br/>
-🚀 Open for Junior Role
 </p>
 
 
