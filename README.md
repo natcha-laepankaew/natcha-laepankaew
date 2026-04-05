@@ -9,7 +9,7 @@
   <a href="https://github.com/natcha-laepankaew">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/natcha-laepankaew">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:natchalpk@gmail.com">
