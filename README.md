@@ -1,7 +1,8 @@
-<!-- 🔥 Banner -->
+<!-- 🔵 Typing Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:111827&height=200&section=header&text=Natcha%20Laepankaew&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Natcha;Junior+Fullstack+Developer;React+%7C+Flutter+%7C+Firebase;Open+for+Internship&center=true&width=550&height=50&color=0D1117&vCenter=true&size=24">
 </p>
+
 
 <!-- 🔗 Social -->
 <p align="center">
@@ -16,15 +17,19 @@
   </a>
 </p>
 
+
 <!-- 👋 Title -->
-<h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
 <p align="center">
-Fullstack Developer passionate about building scalable web & mobile applications  
+💡 Passionate about building modern web & mobile applications <br/>
+🎯 Goal: Become a professional Fullstack Developer  
 </p>
+
 
 <!-- 🧠 About + Pixel (centered layout) -->
 <p align="center">
+
 
 <!-- 🖤 About Me -->
 <h2 align="center">🖤 About Me</h2>
@@ -39,12 +44,14 @@ I'm a passionate developer focused on building clean, scalable, and user-friendl
 🚀 Open for Junior Role
 </p>
 
+
 <!-- ⚙️ Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,firebase,mysql,docker,git,figma,postman" />
 </p>
+
 
 <p align="center">
 💜 Made with passion by Natcha
