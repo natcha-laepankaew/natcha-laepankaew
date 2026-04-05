@@ -16,16 +16,12 @@
   </a>
 </p>
 
----
-
 <!-- 👋 Title -->
 <h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
 
 <p align="center">
 Fullstack Developer passionate about building scalable web & mobile applications  
 </p>
-
----
 
 <!-- 🧠 About + Pixel (centered layout) -->
 <p align="center">
@@ -42,8 +38,6 @@ I'm a passionate developer focused on building clean, scalable, and user-friendl
 🔗 API Integration & Real-time Systems <br/>
 🚀 Open for Junior Role
 </p>
-
----
 
 <!-- ⚙️ Tech Stack -->
 <h2 align="center">⚙️ Tech Stack</h2>
