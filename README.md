@@ -42,42 +42,16 @@
 
 ---
 
-## 🚀 Featured Projects
-
-✨ **Mobile Marketplace App**
-- Flutter + Firebase
-- Real-time chat, notifications, wishlist
-
-✨ **AI Chatbot System**
-- n8n + Google Sheets + Firebase
-- Automation & webhook integration
-
-✨ **Tourism Web App**
-- React + Strapi + Docker
-- Headless CMS architecture
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natcha-laepankaew&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=natcha-laepankaew&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:natchalpk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/natcha-laepankaew">
-    <img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=natchalpk@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
 ---
 
 <!-- Gradient Footer -->
