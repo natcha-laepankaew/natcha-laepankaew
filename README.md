@@ -1,88 +1,96 @@
-<!-- 🔵 Typing Animation -->
+<h1 align="center">Hi 👋 I'm Natcha Laepankaew</h1>
+<h3 align="center">💻 Fullstack Developer | React • Node.js • Flutter</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Natcha;Junior+Fullstack+Developer;React+%7C+Flutter+%7C+Firebase;Open+for+Internship&center=true&width=550&height=50&color=0E75B6&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Flutter+%7C+Firebase;Always+learning+new+things&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-<!-- 🔵 Intro -->
-<h2 align="center">💙 Welcome to my GitHub</h2>
+## 👩‍💻 About Me
+- 🎓 Computer Engineering Graduate  
+- 💡 Passionate about building scalable web & mobile applications  
+- 🔗 Experienced in API integration & real-time systems  
+- 🚀 Currently looking for **Intern / Junior Developer opportunities**
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/-React-0A192F?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0A192F?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0A192F?style=for-the-badge&logo=tailwind-css)
+![Flutter](https://img.shields.io/badge/-Flutter-0A192F?style=for-the-badge&logo=flutter)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-0A192F?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0A192F?style=for-the-badge&logo=fastapi)
+![Strapi](https://img.shields.io/badge/-Strapi-0A192F?style=for-the-badge&logo=strapi)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/-MySQL-0A192F?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-0A192F?style=for-the-badge&logo=firebase)
+
+### 🧰 Tools
+![Docker](https://img.shields.io/badge/-Docker-0A192F?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-0A192F?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-0A192F?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/-Figma-0A192F?style=for-the-badge&logo=figma)
+
+---
+
+## 💼 Experience
+
+### 👩‍💻 Frontend Developer Intern  
+**Yes Web Design Studio Company Limited**  
+📅 Nov 2025 – Mar 2026  
+
+- Developed high-performance landing pages with booking systems  
+- Integrated third-party APIs (Tripadvisor)  
+- Built responsive UI using Elementor & Tailwind CSS  
+- Developed scalable apps using React (Vite)
+
+---
+
+## 🚀 Projects
+
+### 📱 Mobile Marketplace App
+- Flutter + Firebase  
+- Authentication, real-time chat, notifications  
+- Wishlist & review system  
+
+### 🤖 AI Chatbot System
+- n8n + Google Sheets + Firebase  
+- Webhook-based automation  
+- Real-time data processing  
+
+### 🌐 Tourism Web App
+- React + Strapi + Docker  
+- Headless CMS architecture  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-💡 Passionate about building modern web & mobile applications  
-🎯 Goal: Become a professional Fullstack Developer  
+  <img src="https://github-readme-stats.vercel.app/api?username=natcha-laepankaew&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natcha-laepankaew&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- 🔵 Tech Stack -->
-## ⚙️ Tech Stack
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-0E75B6?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1D4ED8?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0E75B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white)
-
----
-
-### 🛠 Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-0E75B6?style=for-the-badge&logo=firebase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-38BDF8?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-1D4ED8?style=for-the-badge&logo=googlesheets&logoColor=white)
-
----
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-0E75B6?style=for-the-badge&logo=flutter&logoColor=white)
-
----
-
-### 🌐 CMS & Tools
-![WordPress](https://img.shields.io/badge/WordPress-1D4ED8?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-38BDF8?style=for-the-badge&logo=elementor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0E75B6?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🔗 API & Integration
-- REST API Integration (e.g. Tripadvisor API)
-- Webhook-based automation (n8n)
-- Real-time data handling (Firebase)
-
----
-
-### 🤖 AI & Automation
-- AI Chatbot Development (n8n + Google Sheets + Firebase)
-- Workflow Automation & Integration Systems
-
----
-
-<!-- 🔵 Contribution Graph -->
-## 🔥 Contribution
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natcha-laepankaew&bg_color=0d1117&color=38BDF8&line=0E75B6&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-<!-- 🔵 Contact -->
 ## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:natchalpk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0E75B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/natcha-laepankaew">
+    <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-<!-- 🔵 Footer -->
-<p align="center">
-  💙 Thanks for visiting my profile 💙
-</p>
+⭐ *“Building user-focused solutions with clean and scalable code”*
