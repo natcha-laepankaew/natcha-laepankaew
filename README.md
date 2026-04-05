@@ -16,16 +16,12 @@
   </a>
 </p>
 
----
-
 <!-- 👋 Title -->
 <h1 align="center">Hi there 👋, &lt; devs /&gt;</h1>
 
 <p align="center">
 Fullstack Developer passionate about building scalable web & mobile applications  
 </p>
-
----
 
 <!-- 🧠 About + Pixel Layout -->
 <table>
@@ -48,60 +44,11 @@ I'm a passionate developer focused on building clean, scalable, and user-friendl
 </tr>
 </table>
 
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,firebase,mysql,docker,git,figma,postman" />
 </p>
-
----
-
-## 📊 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natcha-laepankaew&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natcha-laepankaew&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="20%" align="center">
-🟣 2025
-</td>
-<td width="80%">
-
-**Frontend Developer Intern**  
-Yes Web Design Studio  
-
-- Developed landing pages with booking systems  
-- Integrated APIs (Tripadvisor)  
-- Built responsive UI (Elementor, Tailwind)  
-- Developed scalable apps using React  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Projects
-
-### 📱 Mobile Marketplace App
-Flutter + Firebase (Chat, Notifications, Wishlist)
-
-### 🤖 AI Chatbot System
-n8n + Google Sheets + Firebase (Automation)
-
-### 🌐 Tourism Web App
-React + Strapi + Docker
-
----
 
 <p align="center">
 💜 Made with passion by Natcha
