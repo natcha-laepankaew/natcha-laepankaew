@@ -1,60 +1,88 @@
-<!-- Gradient Header -->
+<!-- 🔵 Typing Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Natcha%20Laepankaew&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi+I'm+Natcha;Junior+Fullstack+Developer;React+%7C+Flutter+%7C+Firebase;Open+for+Internship&center=true&width=550&height=50&color=0E75B6&vCenter=true&size=24">
 </p>
 
-<!-- Typing Animation -->
+---
+
+<!-- 🔵 Intro -->
+<h2 align="center">💙 Welcome to my GitHub</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Flutter+%7C+Firebase;Building+Scalable+Apps&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+💡 Passionate about building modern web & mobile applications  
+🎯 Goal: Become a professional Fullstack Developer  
 </p>
 
 ---
 
-## 👩‍💻 About Me
-✨ Passionate Fullstack Developer  
-🚀 Love building scalable web & mobile apps  
-🔗 Skilled in API integration & real-time systems  
-🎯 Looking for **Intern / Junior Developer**
+<!-- 🔵 Tech Stack -->
+## ⚙️ Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-0E75B6?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1D4ED8?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-38BDF8?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0E75B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-0E75B6?style=for-the-badge&logo=firebase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-38BDF8?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-1D4ED8?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-### 💙 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css,js" />
-</p>
+---
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,laravel,strapi" />
-</p>
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-0E75B6?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🗄 Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
+---
 
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" />
+### 🌐 CMS & Tools
+![WordPress](https://img.shields.io/badge/WordPress-1D4ED8?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-38BDF8?style=for-the-badge&logo=elementor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0E75B6?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔗 API & Integration
+- REST API Integration (e.g. Tripadvisor API)
+- Webhook-based automation (n8n)
+- Real-time data handling (Firebase)
+
+---
+
+### 🤖 AI & Automation
+- AI Chatbot Development (n8n + Google Sheets + Firebase)
+- Workflow Automation & Integration Systems
+
+---
+
+<!-- 🔵 Contribution Graph -->
+## 🔥 Contribution
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natcha-laepankaew&bg_color=0d1117&color=38BDF8&line=0E75B6&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<!-- 🔵 Contact -->
+## 📫 Contact Me
 
 <p align="center">
   <a href="mailto:natchalpk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-0E75B6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=natchalpk@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20Gmail-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
 
-<!-- Gradient Footer -->
+<!-- 🔵 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer"/>
+  💙 Thanks for visiting my profile 💙
 </p>
